@@ -1,0 +1,1 @@
+web: gunicorn mbappehalland.wsgi --log-file -
